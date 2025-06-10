@@ -1,5 +1,5 @@
-const HomePge = () => {
+const HomePage = () => {
 	return <div>BILL NOTE</div>;
 };
 
-export default HomePge;
+export default HomePage;
